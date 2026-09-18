@@ -49,19 +49,19 @@ sidebar:
         - item: Python
           link: 
 
-        - item: Stata
+        - item: SAS
           link: 
 
-        - item: Excel
+        - item:
           link: 
 
-        - item: SQL
+        - item:
           link: 
 
-        - item: Tableau
+        - item:
           link: 
 
-        - item: LaTeX
+        - item:
           link: 
 
   
@@ -83,7 +83,9 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a recent Master's graduate in Economics from the University of Wisconsin - Madison, with a strong interest in real estate and urban economics.
+      I am a research assistant at the Korea SMEs & Startups Institute, with an MS in Economics from the University of Wisconsin–Madison. My research asks why some firms achieve a turnaround while others survive only through continued support, with a focus on the firm-level heterogeneity that drives this divergence.
+      
+      I am also interested in spillover effects and market microstructure.
       
 education:
     title: Education
@@ -99,13 +101,23 @@ education:
 experiences:
    title: Experiences
    info:
+     - role: Research Assistant at <a href="https://kosi.re.kr/front/englishContentDisplay?menuFrontNo=24&documentId=7004">Korea SMEs & Startups Institute</a>
+       time: Jun. 2026 - Present 
+       company: Korea SMEs & Startups Institute (Seoul, Korea)
+       details: |
+        • Surveyed prior studies and produced summary statistics on the effects of SME policy support on firm performance |
+        • Assisted in the analysis of how policy support affects firms’ likelihood of transitioning into zombie firms |
+        • Built and analyzed restricted government microdata at Statistics Korea’s Data Center to establish criteria for micro-enterprises |
+        | 
+         
+        
+            
      - role: Research Assistant at <a href="https://crowe.wisc.edu/">CROWE</a>
        time: Jan. 2024 - Aug. 2024 
        company: Center for Research on the Wisconsin Economy at the UW-Madison (Madison, WI)
        details: |
-        • Conducted data analyses for Professor Kim Ruhl’s various research projects. |
-        • Assessed the effect of higher education on earnings and examined the heterogeneity across majors, institutions, and years after graduation. |
-        • Constructed the inflow-outflow table of the federal contract obligations to each firm and sector in Midwest states. |
+        • Co-authored "Wisconsin's Share of Federal Contract Dollars, 2021–23" (CROWE, 2024) with J. Pulley and A. Fos, analyzing federal contract obligations by sector, awarding agency, and recipient firm across Midwest states |
+        • Assessed federal grant allocation across Midwest university systems, comparing totals against grants per FTE student |
         | 
          
         
@@ -114,27 +126,17 @@ experiences:
        time: Jan. 2023 - Aug. 2023
        company: University of Wisconsin - Madison (Madison, WI)
        details: |
-        • Assisted Professor Paolo Martellini in writing his working paper, <em>Local Labor Markets and Aggregate Productivity</em>. |
-        • Using Python, built a dataset of zoning regulations, property transaction history, and tax records of Chicago and New York. |
-        • Created a choropleth plot for housing price and land use and density regulation map, and presented the works to the professor and his colleagues. |
+        • Built a parcel-level dataset matching property-sales and tax-assessment records to analyze the relationship between urban regulation, property taxes, and home prices |
+        • Identified discrepancies between assessed values and transaction prices, used for estimating effective property-tax burdens |
         |
-         
-
-     - role: Sergeant
-       time: Oct. 2018 - May 2020
-       company: Republc of Korea Army (Seoul, Korea)
-       details: |
-        • Managed the procurement of contracts with suppliers by monitoring the food warehouse inventory, leading a team of 4 squad members. |
-        • Refined the food demand forecast system to improve the resource allocation efficiency for 64 subsidiary battalions. |
-        |
+        
          
 
      - role: Research Assistant at <a href="https://cms.ewha.ac.kr/user/indexMain.action?siteId=idhseng">IDHS</a> 
        time: May 2017 - Aug. 2017
        company: Institute for Development and Human Security at the Ewha University (Seoul, Korea)
        details: |
-        • Drafted a grant report to the Bill and Melinda Gates Foundation on the analysis of the development aid from the OECD. |
-        • Organized and promoted the 2017 International Women's Health Student Writing Competition sponsored by the Bill and Melinda Gates Foundation to raise public awareness of women’s health issues in developing countries. |
+        • Analyzed Official Development Assistance (ODA) in OECD countries and contributed to global health strategy reports |
         
          
 
